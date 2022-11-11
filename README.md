@@ -13,7 +13,8 @@
    
    <h2> 📄 Thinkful bootcamp Certificate
     
-    - [certificate.pdf](https://github.com/Th3miggy/Th3miggy/files/9992512/certificate.pdf)
+    
+![thankful cert](https://user-images.githubusercontent.com/107517437/201408207-13e97ca5-6f38-4761-8304-24aebf5a7586.png)
 
 
 
