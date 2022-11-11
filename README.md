@@ -10,6 +10,11 @@
   <h2> 📄 TryHackMe Certificate
    
    - ![Pre security learning path tryhackme](https://user-images.githubusercontent.com/107517437/174466675-5e7259f8-fc10-4fc7-aa42-ac901d6faa92.png)
+   
+   <h2> 📄 Thinkful bootcamp Certificate
+    
+    - [certificate.pdf](https://github.com/Th3miggy/Th3miggy/files/9992512/certificate.pdf)
+
 
 
 
