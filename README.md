@@ -16,6 +16,11 @@
     
 ![thankful cert](https://user-images.githubusercontent.com/107517437/201408207-13e97ca5-6f38-4761-8304-24aebf5a7586.png)
 
+<h2> 📄  CompTIA Certifications
+
+![Screenshot (41)](https://user-images.githubusercontent.com/107517437/202056571-7183e2ac-56ad-46ae-85c7-5d48272e4bb7.png)
+
+
 
 
 
