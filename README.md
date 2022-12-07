@@ -11,6 +11,10 @@
    
    - ![Pre security learning path tryhackme](https://user-images.githubusercontent.com/107517437/174466675-5e7259f8-fc10-4fc7-aa42-ac901d6faa92.png)
    
+   - ![intro to cyber security THM](https://user-images.githubusercontent.com/107517437/206243103-dc0277ba-e647-4bb5-9e43-ab0e045d26c6.png)
+
+   - ![THM-ETRE9N6TOV](https://user-images.githubusercontent.com/107517437/206243147-d4074fd9-8481-4d7e-8c54-6c6ebc161c91.png)
+
    <h2> 📄 Thinkful bootcamp Certificate
     
     
