@@ -1,7 +1,9 @@
 <h1>Hello, I'm Dakota! 
  <h2> Field Tech at NCR Voyix, Cybersecurity study
 
-<h2>👨‍💻 Cybersecurity projects:</h2>
+<h2>👨‍💻 IT projects:</h2>
+
+- <a href="https://github.com/Th3miggy/Building-a-home-network/tree/main">Building my home network</a>
 
 <h2> 🤳 Connect with me:</h2>
   
