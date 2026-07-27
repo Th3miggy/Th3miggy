@@ -4,6 +4,7 @@
 <h2>👨‍💻 IT projects:</h2>
 
 - <a href="https://github.com/Th3miggy/Building-a-home-network/tree/main">Building my home network</a>
+- <a href="https://github.com/Th3miggy/File-Integrity-Montioring-Lab/tree/main">File Integrity Montioring Lab</a>
 
 <h2> 🤳 Connect with me:</h2>
   
