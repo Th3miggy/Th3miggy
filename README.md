@@ -1,5 +1,5 @@
 <h1>Hello, I'm Dakota! 
- <h2> Field Tech at NCR Voyix, Cybersecurity study
+  <h2> Field Tech at NCR Voyix, Cybersecurity study
 
 <h2>👨‍💻 IT projects:</h2>
 
