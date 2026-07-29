@@ -5,6 +5,7 @@
 
 - <a href="https://github.com/Th3miggy/Building-a-home-network/tree/main">Building my home network</a>
 - <a href="https://github.com/Th3miggy/File-Integrity-Montioring-Lab/tree/main">File Integrity Montioring Lab</a>
+- <a href="https://github.com/Th3miggy/Building-a-Cowrie-SSH-Honeypot-with-Wazuh-intergation/tree/main">Building a Cowrie SSH Honeypot with Wazuh intergation</a>
 
 <h2> 🤳 Connect with me:</h2>
   
