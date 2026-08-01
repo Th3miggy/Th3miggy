@@ -4,8 +4,9 @@
 <h2>👨‍💻 IT projects:</h2>
 
 - <a href="https://github.com/Th3miggy/Building-a-home-network/tree/main">Building my home network</a>
-- <a href="https://github.com/Th3miggy/File-Integrity-Montioring-Lab/tree/main">File Integrity Montioring Lab</a>
-- <a href="https://github.com/Th3miggy/Building-a-Cowrie-SSH-Honeypot-with-Wazuh-intergation/tree/main">Building a Cowrie SSH Honeypot with Wazuh intergation</a>
+- <a href="https://github.com/Th3miggy/File-Integrity-Montioring-Lab/tree/main">File Integrity Monitoring Lab</a>
+- <a href="https://github.com/Th3miggy/Building-a-Cowrie-SSH-Honeypot-with-Wazuh-intergation/tree/main">Building a Cowrie SSH Honeypot with Wazuh integration</a>
+- <a href="https://github.com/Th3miggy/Simluting-attacks-on-endpoints-with-Wazuh-intergation-/tree/main">Simulating attacks on endpoints with Wazuh integration</a>
 
 <h2> 🤳 Connect with me:</h2>
   
