@@ -12,13 +12,27 @@
   
   - https://www.linkedin.com/in/dakota-still-26240a238/
   
-  <h2> 📄 TryHackMe Certificate
-   
-   - ![Pre security learning path tryhackme](https://user-images.githubusercontent.com/107517437/174466675-5e7259f8-fc10-4fc7-aa42-ac901d6faa92.png)
-   
-   - ![intro to cyber security THM](https://user-images.githubusercontent.com/107517437/206243103-dc0277ba-e647-4bb5-9e43-ab0e045d26c6.png)
+  <h2> 📄 Certificate
 
-   - ![THM-ETRE9N6TOV](https://user-images.githubusercontent.com/107517437/206243147-d4074fd9-8481-4d7e-8c54-6c6ebc161c91.png)
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
    <h2> 📄 Thinkful bootcamp Certificate
     
