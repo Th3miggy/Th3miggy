@@ -33,6 +33,12 @@
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh_SIEM-0266C8?&style=for-the-badge&logo=wazuh&logoColor=white" />
+</div>    
+
+  ### Misc
+  <div>
+      <img src="https://img.shields.io/badge/-Cowrie-4CAF50?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    
 </div>
   <h2> 📄 Certifications
   
