@@ -7,6 +7,7 @@
 - <a href="https://github.com/Th3miggy/File-Integrity-Montioring-Lab/tree/main">File Integrity Monitoring Lab</a>
 - <a href="https://github.com/Th3miggy/Building-a-Cowrie-SSH-Honeypot-with-Wazuh-intergation/tree/main">Building a Cowrie SSH Honeypot with Wazuh integration</a>
 - <a href="https://github.com/Th3miggy/Simluting-attacks-on-endpoints-with-Wazuh-intergation-/tree/main">Simulating attacks on endpoints with Wazuh integration</a>
+- <a href="https://github.com/Th3miggy/Simple-test-of-Wazuh-active-response-ability/tree/main">Simple test of Wazuh active response ability</a>
 
 <h2> 🤳 Connect with me:</h2>
   
